@@ -1,0 +1,7 @@
+install.packages("here", version='1.0.1')
+install.packages("tidyverse", version='2.0.0')
+install.packages("fixest", version='0.11.2')
+install.packages("huxtable", version='5.5.6')
+install.packages("flextable", version='0.9.4')
+install.packages("writexl", version='1.5.0')
+install.packages("readxl", version='1.4.2')
