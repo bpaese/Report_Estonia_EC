@@ -1,0 +1,63 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: RIA_Project_EST_EC.aux
+Reallocating 'name_of_file' (item size: 1) to 8 items.
+The style file: chicago.bst
+Reallocating 'name_of_file' (item size: 1) to 20 items.
+Database file #1: ../bibliography.bib
+Warning--no number and no volume in adam_trade_2003
+Warning--page numbers missing in adam_trade_2003
+Warning--no number and no volume in borchert_international_2022
+Warning--page numbers missing in borchert_international_2022
+Warning--no number and no volume in gurevich_dynamic_2018
+Warning--page numbers missing in gurevich_dynamic_2018
+Warning--no number and no volume in paas_gravity_2000
+Warning--page numbers missing in paas_gravity_2000
+Warning--no number and no volume in pisuke_estonia_1996
+Warning--no number and no volume in purju_political_1996
+Warning--page numbers missing in purju_political_1996
+Warning--no journal in tinbergen_shaping_1962
+Warning--no number and no volume in tinbergen_shaping_1962
+Warning--page numbers missing in tinbergen_shaping_1962
+You've used 28 entries,
+            2861 wiz_defined-function locations,
+            790 strings with 10630 characters,
+and the built_in function-call counts, 18691 in all, are:
+= -- 1616
+> -- 1295
+< -- 2
++ -- 395
+- -- 457
+* -- 1631
+:= -- 3432
+add.period$ -- 100
+call.type$ -- 28
+change.case$ -- 194
+chr.to.int$ -- 28
+cite$ -- 42
+duplicate$ -- 504
+empty$ -- 1137
+format.name$ -- 525
+if$ -- 3428
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 27
+newline$ -- 156
+num.names$ -- 282
+pop$ -- 115
+preamble$ -- 1
+purify$ -- 363
+quote$ -- 0
+skip$ -- 542
+stack$ -- 0
+substring$ -- 975
+swap$ -- 163
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 550
+warning$ -- 14
+while$ -- 288
+width$ -- 0
+write$ -- 398
+(There were 14 warnings)
